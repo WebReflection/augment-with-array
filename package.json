@@ -1,6 +1,6 @@
 {
   "name": "augment-with-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Array info to use with augment-with functionality",
   "main": "main.js",
   "scripts": {
